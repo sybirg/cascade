@@ -11,7 +11,7 @@ This repository is administered by Sung Ho Yoon (syoon@konkuk.ac.kr), Department
 ### Required software:
 * A functional Matlab installation (R2015a or higher).
 
-### Required MATLAL source files 
+### Required MATLAL source files: 
 (Locate following two files in the same folder which is set to be the working directory in MATLAB.)
 * in_degrees.m : For calculating the in-degree of each node
 * cascade.m : For calculating the cascade set of a given node
@@ -23,7 +23,7 @@ This repository is administered by Sung Ho Yoon (syoon@konkuk.ac.kr), Department
 ## Examples of MATLAB codes for calculating cascade numbers
 
 ### [Example 1] 
-% Toy model in the paper "Identification of critical connectors in local connectivity and between modules in the directed biological network" 
+% Toy model in the paper "Identification of critical connectors in local connectivity and between modules in the directed biological network".
 
 % 1-1. To get a cascade number of a specific node: 
 
