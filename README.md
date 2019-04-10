@@ -9,7 +9,7 @@ This repository is administered by Sung Ho Yoon (syoon@konkuk.ac.kr), Department
 
 ## Installation
 ### Required software:
-* A functional Matlab installation (R2015a or higher).
+* A functional Matlab installation (R2015a or higher)
 
 ### Required MATLAL source files: 
 (Locate following two files in the same folder which is set to be the working directory in MATLAB.)
