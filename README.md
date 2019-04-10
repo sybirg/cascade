@@ -1,5 +1,7 @@
 # cascade
 https://zenodo.org/badge/180513151.svg
+[![DOI](https://zenodo.org/badge/180513151.svg)](https://zenodo.org/badge/latestdoi/180513151)
+
 Collection of MATLAP source codes for implementing cascade algorithm.
 For more information, please see the publication: Identification of critical connectors in the directed reaction-centric graphs of microbial metabolic networks.
 
