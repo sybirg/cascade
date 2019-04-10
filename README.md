@@ -16,9 +16,9 @@ This repository is administered by Sung Ho Yoon (syoon@konkuk.ac.kr), Department
 * in_degrees.m : For calculating the in-degree of each node
 * cascade.m : For calculating the cascade set of a given node
 
-### Example data files:
-* directed_adjacency_matrix_of_ecoli_reaction_graph.mat : Adjacency matrix of the reaction graph converted from the metabolic network model of E.coli (iJO1366) in Matlab format
-* rxn_list.mat : Reaction list of the E. coli reaction graph corresponding to the adjacency matrix in Matlab format
+### Example MATLAB data files:
+* directed_adjacency_matrix_of_ecoli_reaction_graph.mat : Adjacency matrix of the reaction graph converted from the metabolic network model of E.coli (iJO1366)
+* rxn_list.mat : Reaction list of the E. coli reaction graph corresponding to the adjacency matrix
 
 ## Examples of MATLAB codes for calculating cascade numbers
 
