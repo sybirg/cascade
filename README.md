@@ -12,7 +12,7 @@ This repository is administered by Sung Ho Yoon (syoon@konkuk.ac.kr), Department
 * A functional Matlab installation (R2015a or higher).
 
 ### Required MATLAL source files 
-(Locate following two files in the same folder which is set to be the working directory in MATLAB.
+(Locate following two files in the same folder which is set to be the working directory in MATLAB.)
 * in_degrees.m : For calculating the in-degree of each node
 * cascade.m : For calculating the cascade set of a given node
 
